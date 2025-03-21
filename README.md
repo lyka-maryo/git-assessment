@@ -78,6 +78,6 @@ To get started with the project, follow these steps to clone the repository, set
 
 Clone the project to your local machine:
 
-git clone https://github.com/your-username/git-assessment.git
+git clone https://github.com/lyka-maryo/git-assessment.git
 
 cd git-assessment
