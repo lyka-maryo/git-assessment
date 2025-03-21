@@ -74,9 +74,10 @@ Additionally, you will use GitHub's pull request and issue tracking features for
 
 To get started with the project, follow these steps to clone the repository, set up your development environment, and begin working with Git.
 
-# Step 1: Clone the Repository
+### Step 1: Clone the Repository
 
 Clone the project to your local machine:
 
 git clone https://github.com/your-username/git-assessment.git
+
 cd git-assessment
