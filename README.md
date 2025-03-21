@@ -10,15 +10,15 @@ This project is amazing and unique!
 
 ## Table of Contents
 
-. Introduction
-. Project Overview
-. Technologies Used
-. Setup & Installation
-. Branching Strategy
-. Git Workflow
-. Pull Request & Merge Conflict Resolution
-. Contributing
-. License
-. Next Steps
+#. Introduction
+#. Project Overview
+#. Technologies Used
+#. Setup & Installation
+#. Branching Strategy
+#. Git Workflow
+#. Pull Request & Merge Conflict Resolution
+#. Contributing
+#. License
+#. Next Steps
 
 ## Introduction
