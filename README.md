@@ -80,6 +80,4 @@ Clone the project to your local machine:
 
 | git clone https://github.com/your-username/git-assessment.git
 
-cd git-assessment
-
-|
+cd git-assessment |
